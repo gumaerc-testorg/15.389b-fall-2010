@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: a1f64bb2-2b45-edb6-8ab1-d31d3243bda4
 resourcetype: Document
 title: Thoughts on How to Write a G-Lab Case Study
 uid: baebcc75-1322-5eb5-7473-a232ed8aeb50
