@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes an explanation of the team formation process, the
+  internship match process, and mentoring.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

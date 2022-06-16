@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section explains deliverables relevant to the internship project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: c5200d00-d9ad-7f27-11a3-7174ca607bba
 Project Assignments
 -------------------
 
-You will form teams and jointly submit project applications after reviewing the available project opportunities, following the guidelines of the [Teamwork and Match Process]({{< baseurl >}}/pages/projects/teamwork-and-match-process). All teams will be assigned a faculty mentor who will advise them throughout the development of their project.
+You will form teams and jointly submit project applications after reviewing the available project opportunities, following the guidelines of the {{% resource_link 0a04dac8-348d-6047-0f2a-e9d8a5933ee6 "Teamwork and Match Process" %}}. All teams will be assigned a faculty mentor who will advise them throughout the development of their project.
 
 Project Work Plan
 -----------------
