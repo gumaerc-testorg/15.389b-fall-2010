@@ -35,9 +35,9 @@ Stylized view of entrepreneurship
 {{< tdopen >}}
 
 
-McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. ([PDF](https://www.aeaweb.org/articles?id=10.1257/089533002760278767))
+McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. ({{% resource_link "6935185c-b88c-4592-9dcc-83e343f45a02" "PDF" %}})
 
-Glaeser, Edward L., and William R. Kerr. "[The Secret to Job Growth: Think Small](http://hbr.org/2010/07/the-secret-to-job-growth-think-small/ar/1)." Harvard Business Review Magazine, July 2010.
+Glaeser, Edward L., and William R. Kerr. "{{% resource_link "42d7315b-54e6-4cb8-ad11-6c454020bea4" "The Secret to Job Growth: Think Small" %}}." Harvard Business Review Magazine, July 2010.
 
 
 {{< tdclose >}}
@@ -55,7 +55,7 @@ Income inequality, social stratification and market opportunity at the bottom of
 
 Marulanda, Sergio, Belén Monedero, Diogo Santos and Fernando Tomé. "Beleza Natural: Choosing the Right Growth Model." MIT Sloan School of Management Case, May 2006.
 
-[Beleza Natural](http://www.belezanatural.com.br/).
+{{% resource_link "23cead96-9a2e-4f8f-bb5d-8c2c724054e4" "Beleza Natural" %}}.
 
 
 {{< tdclose >}}
@@ -83,7 +83,7 @@ Where are we in the global cycle?
 {{< tdopen >}}
 
 
-"[World Economic Outlook Update: Restoring Confidence Without Harming Recovery](http://www.imf.org/external/pubs/ft/weo/2010/update/02/index.htm)." _International Monetary Fund_, July 7, 2010.
+"{{% resource_link "ceb96c5e-1912-4297-b869-bf150cb8b6f7" "World Economic Outlook Update: Restoring Confidence Without Harming Recovery" %}}." _International Monetary Fund_, July 7, 2010.
 
 Boone, Peter, and Simon Johnson. "Will the Politics of Global Moral Hazard Sink Us Again?" Chapter 10 in _The Future of Finance_. London School of Economics and Political Science, 2010, pp. 247-88.
 
@@ -123,7 +123,7 @@ Nanda, Ramana, and Toby Stuart. "KiOR: Catalyzing Clean Energy." Harvard Busines
 Entering a market in flux
 {{< tdclose >}}
 {{< tdopen >}}
-Barnett, Katie, Anand Mohanrangan, Teru Tanaka, and Yipeng Zhao. "Conexia: Entering the U.S. Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-103, July 13, 2010. ([PDF - 1.2MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))
+Barnett, Katie, Anand Mohanrangan, Teru Tanaka, and Yipeng Zhao. "Conexia: Entering the U.S. Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-103, July 13, 2010. ({{% resource_link "ccddba71-8665-4a41-8408-674644fd3f0f" "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ Inside the entrepreneurial ecosystem
 
 Sahlman, William A. "Endeavor: Creating a Global Movement for High-Impact Entrepreneurship." Harvard Business School Case. Harvard Business School Publishing. Case: 9-810-049, September 28, 2009.
 
-[Endeavor](http://www.endeavor.org/)
+{{% resource_link "b42b7f96-ceaf-4fa6-b674-5a298ceed546" "Endeavor" %}}
 
 
 {{< tdclose >}}
@@ -165,7 +165,7 @@ Sahlman, William A. "Endeavor: Creating a Global Movement for High-Impact Entrep
 Working in a G-Lab project
 {{< tdclose >}}
 {{< tdopen >}}
-Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/07-044-compsis-at-a-crossroads-lehrich.pdf))
+Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. ({{% resource_link "ba04b23e-6e67-4901-bbfd-2900a36faa12" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +251,7 @@ Global environment for your projects
 {{< tdopen >}}
 
 
-"[World Economic Outlook: Recovery, Risk, and Rebalancing](http://www.imf.org/external/pubs/ft/weo/2010/02/index.htm)." _International Monetary Fund_, October, 2010.
+"{{% resource_link "ff0ca911-c3a8-41bd-ba4a-3ae9b3c16b2e" "World Economic Outlook: Recovery, Risk, and Rebalancing" %}}." _International Monetary Fund_, October, 2010.
 
 
 {{< tdclose >}}
