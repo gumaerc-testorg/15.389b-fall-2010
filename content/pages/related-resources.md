@@ -11,10 +11,10 @@ The following readings and resources are not required but may be useful for this
 
 Baron, David P. "Integrated Strategy: Market and Non-Market Components." _California Management Review_ 37, no. 2 (1997): 47-65.
 
-EIU. "{{% resource_link "adeac4f6-1497-44b7-9c04-184b5a462a28" "Economist Intelligence Unit Home Page" %}}." The Economist.
+EIU. "[Economist Intelligence Unit Home Page](http://www.eiu.com/Default.aspx)." The Economist.
 
 Reavis, Cate. "Thoughts on How to Write a G-Lab Case Study." MIT Sloan School of Management, December 9, 2008. ({{% resource_link baebcc75-1322-5eb5-7473-a232ed8aeb50 "PDF" %}}) (Courtesy of Cate Reavis. Used with permission.)
 
-"Workbook B – Secondary Research." Market Street Research. ({{% resource_link "d0e39e81-a4e5-40b3-a0d0-f8fc276eb6b9" "PDF" %}})
+"Workbook B – Secondary Research." Market Street Research. ([PDF](https://www.wallacefoundation.org/knowledge-center/Documents/Workbook-B-Secondary-Research.pdf))
 
 Skidmore, Thomas E., Peter H. Smith, and James N. Green. _Modern Latin America_. 7th ed. Oxford University Press, 2010. ISBN: 9780195375701.
